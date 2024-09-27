@@ -30,7 +30,7 @@
         "prefix": ""
     },
     "web": {
-        "domain_with_protocol": "",
+        "domain_with_protocol": "kljjjklj.vercel.app",
         "port": 80,
         "ratelimit": 30,
         "recaptcha_v2": {
